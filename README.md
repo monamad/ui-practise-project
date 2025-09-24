@@ -1,16 +1,29 @@
-# miniapp
+# Flutter UI Challenge - MiniApp
 
-A new Flutter project.
+A Flutter project focused on implementing complex UI designs with clean, maintainable code.
+
+## About
+
+This project is a UI challenge that demonstrates how to recreate intricate and challenging user interface designs using Flutter. The goal is to implement hard-to-build UI components while maintaining clean architecture and readable code.
+
+## Screenshots
+
+<div align="center">
+  <img src="images/image.png" alt="Main UI" width="300">
+  <img src="images/image1.png" alt="UI Component 1" width="300">
+  <img src="images/image2.png" alt="UI Component 2" width="300">
+</div>
+
+## Features
+
+- Complex UI implementations
+- Clean code architecture
+- Responsive design
+- Custom widgets and components
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
